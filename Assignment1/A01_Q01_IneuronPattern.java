@@ -1,3 +1,5 @@
+package com.ineuron.assignment1;
+
 public class A01_Q01_IneuronPattern {
 
 	public static void main(String[] args) {
